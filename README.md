@@ -31,3 +31,10 @@ Technologies Used
 The code is written in Python and uses the Flask framework to create a web application. The Flask-SQLAlchemy extension is used to interact with the SQLite database, and the SQLAlchemy library is used to define the model for the drinks data.
 
 This is a simple example of how to can create a REST API using Flask, which can be used to interact with a database and perform CRUD operations.
+
+## Acknowledgement
+
+Thanks to Caleb, for providing a clear and concise overview to what REST APIs are and how to use them in Python!
+
+Do subscribe to his channel 👉:
+[Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)
